@@ -1,0 +1,73 @@
+,Artist,followers,popularity,genre,2018,Ticket_Sales
+0,Ed Sheeran,52850433,96,"['pop', 'uk pop']",1,4860482
+1,Roger Waters,835496,57,"['album rock', 'art rock', 'classic rock', 'progressive rock', 'rock', 'symphonic rock']",5,1448771
+2,Kenny Chesney,2672559,75,"['contemporary country', 'country', 'country road']",6,1297731
+3,Bruno Mars,22701560,88,['pop'],7,1290438
+4,Justin Timberlake,8373515,81,"['dance pop', 'pop']",9,1193366
+5,Imagine Dragons,22696963,90,"['modern rock', 'rock']",10,1131769
+6,Sam Smith,10167854,90,"['pop', 'uk pop']",11,1070957
+7,Foo Fighters,6873440,80,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']",12,1045728
+8,Luke Bryan,4566106,78,"['contemporary country', 'country', 'country road']",14,994648
+9,Eagles,3881640,78,"['album rock', 'classic rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",15,964245
+10,U2,5727123,80,"['irish rock', 'permanent wave', 'rock']",16,927034
+11,Trans-Siberian Orchestra,185064,47,"['neo classical metal', 'progressive metal']",17,925345
+12,Helene Fischer,720600,66,"['classic schlager', 'german pop', 'partyschlager', 'schlager']",18,899004
+13,Depeche Mode,2565181,75,"['dance rock', 'new romantic', 'new wave', 'permanent wave', 'synthpop']",19,871375
+14,Harry Styles,5130326,82,"['dance pop', 'pop', 'post-teen pop']",21,757843
+15,The Rolling Stones,7553478,82,"['album rock', 'british invasion', 'classic rock', 'protopunk', 'rock']",22,750914
+16,Dave Matthews Band,1158853,70,"['jam band', 'neo mellow', 'pop rock']",23,716489
+17,Kevin Hart,212352,52,['comedy'],24,703020
+18,Drake,41496767,97,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap', 'toronto rap']",25,678410
+19,André Rieu,407421,63,"['easy listening', 'operatic pop']",27,645408
+20,The Killers,4897436,79,"['indie rock', 'modern rock', 'permanent wave', 'rock']",28,638283
+21,Katy Perry,14020862,87,"['dance pop', 'pop', 'post-teen pop']",29,633837
+22,Jason Aldean,3369322,78,"['contemporary country', 'country', 'country road']",31,625929
+23,Keith Urban,3357318,74,"['australian country', 'contemporary country', 'country', 'country road']",32,607650
+24,Phil Collins,2298161,78,"['mellow gold', 'soft rock']",33,606694
+25,Metallica,12068074,84,"['hard rock', 'metal', 'old school thrash', 'rock', 'speed metal', 'thrash metal']",35,599136
+26,Shania Twain,1674020,73,"['canadian country', 'canadian pop', 'contemporary country', 'country', 'country dawn', 'dance pop']",36,596972
+27,Phish,295091,60,"['blues rock', 'jam band', 'pop rock', 'roots rock']",37,577620
+28,Billy Joel,2112191,78,"['album rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",38,572875
+29,Luis Miguel,4095535,82,"['bolero', 'latin', 'latin pop']",39,560820
+30,Zac Brown Band,1786313,76,"['contemporary country', 'country', 'country road', 'modern country rock']",40,552674
+31,Chris Stapleton,1849617,77,['contemporary country'],41,547497
+32,Lynyrd Skynyrd,2338917,75,"['album rock', 'blues rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'southern rock']",43,531514
+33,Thirty Seconds To Mars,2421461,72,"['modern rock', 'pop punk', 'post-grunge', 'rock']",45,493653
+34,Jeff Dunham,54562,44,"['comedy', 'comic']",46,485504
+35,Iron Maiden,4728700,77,"['album rock', 'hard rock', 'metal', 'nwobhm', 'rock']",47,461366
+36,Romeo Santos,9119141,84,"['bachata', 'latin', 'tropical']",49,453303
+37,Niall Horan,4219872,79,"['dance pop', 'neo mellow', 'pop', 'post-teen pop']",50,446366
+38,Shakira,17417325,83,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'mexican pop', 'pop']",51,432761
+39,Kid Rock,1022507,70,"['alternative metal', 'nu metal', 'post-grunge', 'rock']",55,418013
+40,Panic! At The Disco,8149076,86,"['baroque pop', 'emo', 'modern rock', 'pop punk']",56,415152
+41,Pentatonix,2377370,73,['a cappella'],57,403828
+42,Ozzy Osbourne,2388229,81,"['album rock', 'birmingham metal', 'classic rock', 'hard rock', 'metal', 'rock']",58,398944
+43,Bryan Adams,1326068,77,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",60,364572
+44,Pearl Jam,5095972,78,"['alternative rock', 'grunge', 'permanent wave', 'post-grunge', 'rock']",61,364524
+45,Scorpions,2781511,75,"['album rock', 'german hard rock', 'german metal', 'german rock', 'hard rock', 'metal', 'rock']",63,354039
+46,Demi Lovato,15301965,84,"['dance pop', 'pop', 'post-teen pop']",65,352842
+47,Post Malone,18623394,100,"['dfw rap', 'melodic rap', 'pop', 'rap']",67,347851
+48,The Kelly Family,97886,57,[],68,345428
+49,Chris Brown,9697295,92,"['dance pop', 'pop', 'pop rap', 'r&b', 'rap']",72,336646
+50,Kendrick Lamar,13341601,88,"['conscious hip hop', 'hip hop', 'pop rap', 'rap', 'west coast rap']",74,334914
+51,J. Cole,9436961,89,"['conscious hip hop', 'hip hop', 'nc hip hop', 'pop rap', 'rap']",75,334149
+52,The Script,5478617,79,"['celtic rock', 'dance pop', 'neo mellow', 'pop', 'pop rock', 'post-teen pop', 'viral pop']",76,326361
+53,Rod Stewart,1622830,75,"['adult standards', 'mellow gold', 'rock', 'soft rock']",77,325668
+54,Fall Out Boy,7190246,84,"['emo', 'modern rock', 'pop punk']",78,317511
+55,David Byrne,177257,55,"['art pop', 'art rock', 'dance rock', 'permanent wave']",79,315301
+56,Maroon 5,20482483,90,['pop'],80,312720
+57,Paul Simon,1121373,72,"['classic rock', 'folk', 'folk rock', 'folk-pop', 'mellow gold', 'permanent wave', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",81,312382
+58,Bon Jovi,6678740,80,"['glam metal', 'rock']",82,309048
+59,Lana Del Rey,9196777,89,['pop'],85,303328
+60,Thomas Rhett,2968041,79,"['contemporary country', 'country', 'country road', 'modern country rock']",87,300839
+61,Bad Bunny,15926921,95,"['reggaeton', 'trap latino']",88,293623
+62,Jim Gaffigan,146322,60,"['clean comedy', 'comedy', 'comic']",89,293389
+63,Ozuna,19562697,96,"['puerto rican pop', 'reggaeton', 'trap latino']",90,286824
+64,Kevin Bridges,3074,32,['british comedy'],91,282756
+65,Elton John,3805001,84,"['glam rock', 'mellow gold', 'piano rock', 'rock']",92,278115
+66,Wiz Khalifa,8522037,86,"['hip hop', 'pittsburgh rap', 'pop', 'pop rap', 'rap', 'southern hip hop', 'trap music']",95,271189
+67,Sebastian Maniscalco,13761,38,[],96,266244
+68,The Smashing Pumpkins,2379261,73,"['alternative metal', 'alternative rock', 'grunge', 'modern rock', 'permanent wave', 'pop rock', 'post-grunge', 'rock']",97,265584
+69,Fleetwood Mac,3770484,82,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",98,262333
+70,Britney Spears,6587659,80,"['dance pop', 'pop', 'pop rap', 'post-teen pop']",99,260531
+71,Lady Gaga,9400893,87,"['dance pop', 'pop']",100,257717
